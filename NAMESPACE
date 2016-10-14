@@ -1,0 +1,4 @@
+importFrom(stats, optimise, runif, rbinom, pbinom, qbinom)
+S3method(print, Ltest)
+S3method(summary, Ltest)
+exportPattern("^[[:alpha:]]+")

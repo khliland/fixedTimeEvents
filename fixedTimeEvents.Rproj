@@ -1,0 +1,20 @@
+Version: 1.0
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: ISO8859-1
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+BuildType: Package
+PackageUseDevtools: Yes
+PackagePath: H:/Documents/Subversion/SVN/fixedTimeEvents
+PackageInstallArgs: --no-multiarch --with-keep.source -l C:/R/Library
+PackageCheckArgs: --as-cran -l C:/R/Library --no-manual
+PackageRoxygenize: vignette
