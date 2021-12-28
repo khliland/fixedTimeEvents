@@ -14,7 +14,6 @@ LaTeX: pdfLaTeX
 
 BuildType: Package
 PackageUseDevtools: Yes
-PackagePath: H:/Documents/Subversion/SVN/fixedTimeEvents
 PackageInstallArgs: --no-multiarch --with-keep.source -l C:/R/Library
 PackageCheckArgs: --as-cran -l C:/R/Library --no-manual
 PackageRoxygenize: vignette

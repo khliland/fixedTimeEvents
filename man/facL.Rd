@@ -21,6 +21,11 @@ The logarithm of the factorial.
 Kristian Hovde Liland
 }
 
+\references{
+Liland, KH & Snipen, L, FixedTimeEvents: An R package for the distribution of
+distances between discrete events in fixed time, SoftwareX 5 (2016).
+}
+
 \seealso{
 \code{\link{dLiland}}, \code{\link{Liland}}, \code{\link{Liland.test}}, \code{\link{simLiland}}
 }

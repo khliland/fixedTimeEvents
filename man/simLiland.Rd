@@ -34,7 +34,7 @@ summary of counts (\code{counts}) and order of counts (\code{ms}).
 }
 \references{
 Liland, KH & Snipen, L, FixedTimeEvents: An R package for the distribution of
-distances between discrete events in fixed time, SoftwareX, in press.
+distances between discrete events in fixed time, SoftwareX 5 (2016).
 }
 \author{
 Kristian Hovde Liland
